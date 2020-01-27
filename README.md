@@ -1,8 +1,12 @@
 # outSystems-LOWCODE
 making code with no code what?
 
+check them out at https://www.outsystems.com/
 
-spent the day installing Outsystems a 'low-code' web tablet and mobile page / app development tool that uses drag and drop development to make a 'react app' using html css and javascript without any code being typed by the creator.
+you tube 2 minute over view https://www.youtube.com/watch?v=CY_nav-5iBk
+
+
+Sunday and Monday were spent installing Outsystems a 'low-code' web, tablet and mobile page / app development tool that uses drag and drop development to make a 'react app' using html css and javascript without any code being typed by the creator.
 
 pretty cool
 
